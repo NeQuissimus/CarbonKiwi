@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>CarbonKiwi</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nequissimus.CarbonKiwi</string>
+	<key>css</key>
+	<string>style.css</string>
+	<key>description</key>
+	<string>_info/index.html</string>
+	<key>icon</key>
+	<string>sphere.icns</string>
+	<key>scrollerBackgroundImage</key>
+	<string>scrollbar_bg.png</string>
+	<key>scrollerKnobImage</key>
+	<string>scrollbar_thingy.png</string>
+	<key>scrollerSlotImage</key>
+	<string>scrollbar_slot.png</string>
+	<key>timelineInsetColor</key>
+	<string>#292929</string>
+	<key>timelineInsetX</key>
+	<integer>0</integer>
+	<key>timelineTemplate</key>
+	<string>timeline.html</string>
+	<key>title</key>
+	<string>CarbonKiwi</string>
+	<key>tweetTemplate</key>
+	<string>tweet.html</string>
+</dict>
+</plist>
